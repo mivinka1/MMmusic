@@ -25,14 +25,14 @@
       "required": true
     },
     "GROUP_LINK": {
-      "description": "your group support link, can use private or public group, example https://t.me/solidprojects_chat",
+      "description": "your group support link, can use private or public group, example https://t.me/oangelangelangelo",
       "required": false,
-      "value": "https://t.me/marrkchannel"
+      "value": "https://t.me/oangelangelangelo"
     },
     "CHANNEL_LINK": {
-      "description": "your channel support link, can use private or public channel, example https://t.me/solidprojects",
+      "description": "your channel support link, can use private or public channel, example https://t.me/oangelangelangelo",
       "required": false,
-      "value": "https://t.me/marrkmusic"
+      "value": "https://t.me/oangelangelangelo"
     },
     "UPSTREAM_REPO": {
       "description": "fill it if you fork from original repo",
